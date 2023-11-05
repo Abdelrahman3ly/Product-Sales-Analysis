@@ -5,4 +5,6 @@ In this project , I have useed products info to make analysis , this data contai
 we want to know some question to help decision makers to make decisions , i want to know which country sold out more product and max rate for every country,
 want to know which year sales and month declined and increased , and which product and sub category sold out more.
 to answer this quesitions , i have used some analytical tools like Excel , Python and Ms PowerBI .
-I have made data cleansing with python : remove dublicated , remove null values and understand dataset using some statistical methods and charts
+-- I have made data cleansing with python : remove dublicated , remove null values and understand dataset using some statistical methods and charts
+-- I have made some data cleansing with excel : remove unnecessary columns and rename columns
+-- I have made dashboard using power bi that make final analysis to help stakeholders to make decisions
